@@ -27,9 +27,9 @@
 						<li class="unselected">
 							<a href="workshops.php">Workshops</a>
 							  <ul class="dropdown">
-								<li class="dropdownTab"><a href="#">Workshop 1</a></li>
-								<li class="dropdownTab"><a href="#">Workshop 2</a></li>
-								<li class="dropdownTab"><a href="#">Workshop 3</a></li>
+								<li class="dropdownTab"><a href="workshop1.php">Workshop 1</a></li>
+								<li class="dropdownTab"><a href="workshop2.php">Workshop 2</a></li>
+								<li class="dropdownTab"><a href="workshop3.php">Workshop 3</a></li>
 							  </ul>
 						</li>
 						<li class="unselected">

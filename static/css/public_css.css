@@ -160,6 +160,32 @@ ol li {
   object-position: center;
 }
 
+.leftphoto {
+ float: left;
+ width: 30%;
+ margin-bottom: 10px;
+ margin-right: 10px;
+ margin-top: 10px; 
+ border: 10px solid #62894F;
+ padding: 0 0 0 0;}
+
+.rightphoto {
+ float: right;
+ width: 30%; 
+ margin-bottom: 10px;
+ margin-left: 10px; 
+ margin-top: 10px;
+ border: 10px solid #62894F;
+ padding: 0 0 0 0;}
+ 
+.centerphoto {
+  display: block;
+  margin: 10px auto;
+  width: 50%;
+  border: 10px solid #62894F;
+  padding: 0;
+}
+
 #menubar {
   display: flex;
   justify-content: center;
