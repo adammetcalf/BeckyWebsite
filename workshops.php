@@ -57,7 +57,7 @@
             <h2>Community Workshops</h2>
 			
 			<!-- Placeholder Image -->
-            <img src='static/images/communityWorkshop1.JPG' alt="Placeholder Photo" class="rightphoto" style="width: 30%;" />
+            <img src='static/images/communityWorkshop1.jpg' alt="Placeholder Photo" class="rightphoto" style="width: 30%;" />
             
             <p>
                 At Dandelion STH, I believe in the power of community. My community workshops are designed to bring people together, foster creativity, and build skills in a collaborative environment. Whether you're interested in therapeutic horticulture, arts and crafts, wellness activities, or technology, I am here to guide you. Join me to learn something new, make new friends, and enjoy a nurturing environment.

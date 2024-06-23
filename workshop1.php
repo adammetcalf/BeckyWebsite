@@ -57,7 +57,7 @@
             <h2>Terrarium Workshop</h2>
 			
 			<!-- Placeholder Image -->
-            <img src='static/images/Terrarium3.JPG' alt="Placeholder Photo" class="rightphoto" style="width: 30%;" />
+            <img src='static/images/Terrarium3.jpg' alt="Placeholder Photo" class="rightphoto" style="width: 30%;" />
             
             <p>
                 Discover the art of creating beautiful and sustainable terrariums at Dandelion STH's Terrarium Workshop. This hands-on workshop is perfect for plant enthusiasts, DIY lovers, and anyone looking to bring a touch of nature indoors.
@@ -75,7 +75,7 @@
             </p>
 			
 			<!-- Placeholder Image -->
-            <img src='static/images/Terrarium1.JPG' alt="Placeholder Photo" class="leftphoto" style="width: 30%;" />
+            <img src='static/images/Terrarium1.jpg' alt="Placeholder Photo" class="leftphoto" style="width: 30%;" />
             
             <p>
                 No prior experience is necessary—all materials and tools will be provided. Whether you're looking for a fun activity with friends, a unique gift idea, or a way to enhance your living space, this workshop is for you. Join me in a creative and relaxing environment and bring a little green into your life!
@@ -101,7 +101,7 @@
 			
 			
 			<!-- Placeholder Image -->
-            <img src='static/images/Terrarium2.JPG' alt="Placeholder Photo" class="centerphoto" style="width: 30%;" />
+            <img src='static/images/Terrarium2.jpg' alt="Placeholder Photo" class="centerphoto" style="width: 30%;" />
 
 				<!-- Call-to-Action Section -->
 				<div class="call-to-action">
