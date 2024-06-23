@@ -1,6 +1,6 @@
 		<link rel="shortcut icon" type="image/jpg" href="static/images/favicon_io/favicon.ico">
 		<meta name="description" content="Dandelion Gardening For Wellbeing" />
-		<meta name="keywords" content="Dandelion" />
+		<meta name="keywords" content="Dandelion STH, therapeutic activities Leeds, nature crafts Leeds, gardening workshops Leeds, eco therapy Leeds, nature therapy activities, horticultural therapy Leeds, environmental crafts, gardening for wellbeing, sustainable crafts, community activities Leeds, wellness activities community, therapeutic gardening community Leeds, nature craft groups, eco-friendly activities groups, therapeutic nature crafts community groups, community gardening wellness workshops Leeds, sustainable therapeutic activities groups, nature-based craft activities mental health, stress relief gardening activities Leeds, creative nature crafts relaxation, mental health benefits of gardening, eco therapy community wellbeing Leeds" />
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<link rel="stylesheet" type="text/css" href="static/css/public_css.css" />
 		

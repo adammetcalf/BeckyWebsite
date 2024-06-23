@@ -50,59 +50,46 @@
 
 
 
-			<!--START-SITE-CONTENT-->
-			<div id="site_content">
-					
-				<h2>This is the About Page</h2>
-				
-				<p>
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-				</p>
-				
-				<!-- Placeholder Image -->
-					<img src='static/images/DandelionFlowerPlaceholder.jpg' alt="Placeholder Photo" class="leftphoto" />
-				
-				<p>
-					Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?					<br>
-				</p>
+<!--START-SITE-CONTENT-->
+<div id="site_content">
 
-				
-				<p>
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-				</p>
-				
-				<p>
-					Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?					<br>
-				</p>
-				
-				<h2>More Latin, why not?</h2>				
-				
-				<p>
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-				</p>
-				
-				<!-- Placeholder Image -->
-					<img src='static/images/DandelionFlowerPlaceholder.jpg' alt="Placeholder Photo" class="centerphoto" />
-					
-				<p>
-					Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?					<br>
-				</p>
-				
-				<p>
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-				</p>
+	<h2>About Dandelion STH - Gardening for Wellbeing</h2>
 
-				
-				<p>
-					Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?					<br>
-				</p>
-				
-				<p>
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-				</p>
+	<p>
+		Welcome to Dandelion STH, where we believe in the profound healing power of nature and the therapeutic benefits of gardening. Our mission is to cultivate wellbeing and improve lives through the transformative practice of therapeutic horticulture, with a primary focus on providing workshops for community groups.
+	</p>
 
-			<!--END-SITE-CONTENT-->
-			</div>
+
+	<p>
+		At Dandelion STH, our purpose is to enrich lives through meaningful engagement with nature and to foster a sense of belonging within our community. We are dedicated to providing tailored workshops that promote wellbeing, social connection, and emotional support for participants.
+	</p>
+
+	<p>
+		Our workshops are thoughtfully designed to create a therapeutic and inclusive space, where participants can experience the joys of gardening, find solace in nature, and strengthen connections with others. Through these workshops, we aim to improve overall wellbeing, from reducing stress and anxiety to fostering a sense of accomplishment and purpose.
+	</p>
+
+	<h2>Community Impact</h2>
+
+	<p>
+		As a social enterprise, Dandelion STH is deeply committed to giving back to the community. Through our workshops, we aim to leave a lasting positive impact on the lives of participants and the community organizations we partner with. We believe that by nurturing the wellbeing of community members, we can collectively cultivate a stronger and more resilient society.
+	</p>
+
+	<!-- Placeholder Image -->
+	<img src='static/images/DandelionFlowerPlaceholder.jpg' alt="Placeholder Photo" class="centerphoto" />
+
+	<h2>Join Us in Cultivating Wellbeing</h2>
+
+	<p>
+		If you represent a community group or organization looking to introduce the therapeutic benefits of gardening into your program, we warmly invite you to collaborate with Dandelion STH. Let us tailor a workshop that suits the unique needs and preferences of your participants, fostering a sense of connection, joy, and growth.
+	</p>
+
+	<p>
+		Reach out to us today to explore our therapeutic horticulture workshops and discover how we can work together to create a nurturing green space within your community.
+	</p>
+
+</div>
+<!--END-SITE-CONTENT-->
+
 			
 			<!--START-FOOTER-->
 			<div id="footer">

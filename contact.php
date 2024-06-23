@@ -8,10 +8,26 @@
 		<!---Head section--->
 		<?php require_once('includes/head_section.php') ?>
 		<!---// Header section--->
+		
+		<style>
+            /* Style for popup message */
+            #popupMessage {
+                display: none; /* Hidden by default */
+                position: fixed;
+                top: 20%;
+                left: 50%;
+                transform: translate(-50%, -50%);
+                background-color: white;
+                border: 1px solid black;
+                padding: 20px;
+                z-index: 1000;
+            }
+        </style>
 
 	</head>
          
 	<body>
+		<?php session_start(); ?>
 
 		<div id="main">
 		
@@ -65,12 +81,50 @@
 							<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css">
 							<a href="https://www.facebook.com/profile.php?id=100093580321978"><i class="fab fa-facebook fa-fw" style='font-size:80px'></i></a>
 						
-							<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
-							<a href="https://www.linkedin.com"><i class="fa fa-linkedin-square fa-fw" style='font-size:80px'></i></a>
 
-							<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
-							<a href="https://stackoverflow.com/users/8337079/ametcalf"><i class="fa fa-instagram fa-fw" style='font-size:80px'></i></a>
 						</div>
+						
+						<!-- Popup Message -->
+						<?php if(isset($_SESSION['popup_message'])): ?>
+							<div class="popup-message">
+								<p><?php echo $_SESSION['popup_message']; ?></p>
+								<button onclick="this.parentElement.style.display='none';">Close</button>
+							</div>
+							<?php unset($_SESSION['popup_message']); ?>
+						<?php endif; ?>	
+						
+						<!-- CONTACT FORM -->
+						    <form id="fcf-form-id" class="fcf-form-class" method="post" action="contact-form-process.php">
+        
+							<div class="fcf-form-group">
+								<label for="Name" class="fcf-label">Your name</label>
+								<div class="fcf-input-group">
+									<input type="text" id="Name" name="Name" class="fcf-form-control" required>
+								</div>
+							</div>
+
+							<div class="fcf-form-group">
+								<label for="Email" class="fcf-label">Your email address</label>
+								<div class="fcf-input-group">
+									<input type="email" id="Email" name="Email" class="fcf-form-control" required>
+								</div>
+							</div>
+
+							<div class="fcf-form-group">
+								<label for="Message" class="fcf-label">Your message</label>
+								<div class="fcf-input-group">
+									<textarea id="Message" name="Message" class="fcf-form-control" rows="6" maxlength="3000" required></textarea>
+								</div>
+							</div>
+
+							<div class="fcf-form-group">
+								<button type="submit" id="fcf-button" class="fcf-btn fcf-btn-primary fcf-btn-lg fcf-btn-block">Send Message</button>
+							</div>
+
+						
+
+							</form>
+						
 				</div>
 				<!--END-CONTENT-->
 			<!--END-SITE-CONTENT-->
