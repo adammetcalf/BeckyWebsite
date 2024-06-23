@@ -2,120 +2,95 @@
 
 <html>
 
-	<head>
-		<title>Workshops</title>
+<head>
+    <title>Workshops</title>
 
-		<!---Head section--->
-		<?php require_once('includes/head_section.php') ?>
-		<!---// Header section--->
+    <!---Head section--->
+    <?php require_once('includes/head_section.php') ?>
+    <!---// Header section--->
+</head>
+     
+<body>
 
-	</head>
-         
-	<body>
+    <div id="main">
+    
+        <!---Header--->
+        <div id="header">
+        
+            <!--START-MENUBAR-->
+            <div id="menubar">
+                <ul class="menu">
+                    <li class="unselected">
+                        <a href="index.php">Home</a>
+                    </li>
+                    <li class="selected">
+                        <a href="workshops.php">Workshops</a>
+                          <ul class="dropdown">
+                            <li class="dropdownTab"><a href="workshop1.php">Terrariums</a></li>
+                            <li class="dropdownTab"><a href="workshop2.php">Workshop 2</a></li>
+                            <li class="dropdownTab"><a href="workshop3.php">Workshop 3</a></li>
+                          </ul>
+                    </li>
+                    <li class="unselected">
+                        <a href="portfolio.php">Portfolio</a>
+                    </li>
+                    <li class="unselected">
+                        <a href="about.php">About</a>
+                    </li>
+                    <li class="unselected">
+                        <a href="contact.php">Contact Us</a>
+                    </li>
+                </ul>
+            </div>
+            <!--END-MENUBAR-->
+          
+        <!--END_HEADER-->
+        </div>
 
-		<div id="main">
-		
-			<!---Header--->
-			<div id="header">
+        <!--START-SITE-CONTENT-->
+        <div id="site_content">
+            
+            <h2>Community Workshops</h2>
 			
-				<!--START-MENUBAR-->
-				<div id="menubar">
-					<ul class="menu">
-						<li class="unselected">
-							<a href="index.php">Home</a>
-						</li>
-						<li class="selected">
-							<a href="workshops.php">Workshops</a>
-							  <ul class="dropdown">
-								<li class="dropdownTab"><a href="workshop1.php">Workshop 1</a></li>
-								<li class="dropdownTab"><a href="workshop2.php">Workshop 2</a></li>
-								<li class="dropdownTab"><a href="workshop3.php">Workshop 3</a></li>
-							  </ul>
-						</li>
-						<li class="unselected">
-							<a href="portfolio.php">Portfolio</a>
-						</li>
-						<li class="unselected">
-							<a href="about.php">About</a>
-						</li>
-						<li class="unselected">
-							<a href="contact.php">Contact Us</a>
-						</li>
-					</ul>
+			<!-- Placeholder Image -->
+            <img src='static/images/communityWorkshop1.JPG' alt="Placeholder Photo" class="rightphoto" style="width: 30%;" />
+            
+            <p>
+                At Dandelion STH, I believe in the power of community. My community workshops are designed to bring people together, foster creativity, and build skills in a collaborative environment. Whether you're interested in therapeutic horticulture, arts and crafts, wellness activities, or technology, I am here to guide you. Join me to learn something new, make new friends, and enjoy a nurturing environment.
+            </p>
+            
+            <h2>Corporate Workshops</h2>
+            <p>
+                Looking to boost team morale, enhance collaboration, or develop new skills within your organization? Dandelion STH offers a range of corporate workshops tailored to meet your company's needs. These workshops are perfect for team-building events, professional development days, and company retreats. With engaging activities, I ensure your team leaves feeling inspired, connected, and rejuvenated.
+            </p>
+            
+            <h2>Private Workshops</h2>
+            <p>
+                Want a more personalized experience? My private workshops are perfect for individuals or small groups looking for a tailored workshop experience. Whether it's a special occasion, a unique gift, or just a personal interest, you can purchase tickets to join one of my exclusive sessions. Enjoy focused attention and a customized agenda that fits your interests and needs.
+            </p>
+
+            <h2>Join Me in Cultivating Wellbeing</h2>
+            <p>
+                At Dandelion STH, my mission is to improve lives through the healing power of nature and the transformative benefits of my workshops. Whether you’re part of a community group, a corporate team, or seeking a private session, I have something for everyone. Explore my offerings and join me in cultivating wellbeing, fostering social connections, and creating a positive impact in our communities.
+            </p>
+			
+				<!-- Call-to-Action Section -->
+				<div class="call-to-action">
+					<a href="contact.php" class="cta-button">Enquire about workshops</a>
 				</div>
-				<!--END-MENUBAR-->
-			  
-			<!--END_HEADER-->
-			</div>
 
-
-
-			<!--START-SITE-CONTENT-->
-			<div id="site_content">
-				
-
-				<h2>This is the Workshops Page</h2>
-				
-				<p>
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-				</p>
-				
-				<!-- Placeholder Image -->
-					<img src='static/images/DandelionFlowerPlaceholder.jpg' alt="Placeholder Photo" class="centerphoto" />
-				
-				<p>
-					Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?					<br>
-				</p>
-
-				
-				<p>
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-				</p>
-				
-				<p>
-					Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?					<br>
-				</p>
-				
-				<h2>More Latin, why not?</h2>				
-				
-				<p>
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-				</p>
-				
-				<!-- Placeholder Image -->
-					<img src='static/images/DandelionFlowerPlaceholder.jpg' alt="Placeholder Photo" class="rightphoto" />
-					
-				<p>
-					Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?					<br>
-				</p>
-				
-				<p>
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-				</p>
-
-				
-				<p>
-					Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?					<br>
-				</p>
-				
-				<p>
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-				</p>
-			<!--END-SITE-CONTENT-->
-			</div>
-			
-			<!--START-FOOTER-->
-			<div id="footer">
-			<?php include_once  ('includes/footer.php');?>
-			</div>
-			<!--END-FOOTER-->
-			
-		<!--END-MAIN-->
-		</div>
-		
-		
-		
-	</body>
-
+        <!--END-SITE-CONTENT-->
+        </div>
+        
+        <!--START-FOOTER-->
+        <div id="footer">
+        <?php include_once  ('includes/footer.php');?>
+        </div>
+        <!--END-FOOTER-->
+        
+    <!--END-MAIN-->
+    </div>
+    
+</body>
 
 </html>
