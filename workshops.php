@@ -78,10 +78,17 @@
                 At Dandelion STH, my mission is to improve lives through the healing power of nature and the transformative benefits of my workshops. Whether you’re part of a community group, a corporate team, or seeking a private session, I have something for everyone. Explore my offerings and join me in cultivating wellbeing, fostering social connections, and creating a positive impact in our communities.
             </p>
 			
+			<br>
+			<br>
+			<br>
+			<br>
+			
 				<!-- Call-to-Action Section -->
 				<div class="call-to-action">
-					<a href="contact.php" class="cta-button">Enquire about workshops</a>
+					<a href="contact.php" class="cta-button">Enquire about bespoke workshops</a><br>
+					<a href="https://www.eventbrite.co.uk/o/dandelion-sth-85890503143?_gl=1*1x05o4j*_up*MQ..*_ga*MTM1MzU5ODUyNy4xNzE5OTA5NjI3*_ga_TQVES5V6SH*MTcxOTkwOTYyNi4xLjAuMTcxOTkwOTYyNi4wLjAuMA.." class="cta-button">Check out our current workshops</a>
 				</div>
+
 
         <!--END-SITE-CONTENT-->
         </div>

@@ -77,16 +77,21 @@
 						<h1>Contact Us</h1>
 						
 						<p>
-						You can also find us on Facebook.
+						You can also find us on Facebook, Instagram <a href="https://www.eventbrite.co.uk/o/dandelion-sth-85890503143?_gl=1*1x05o4j*_up*MQ..*_ga*MTM1MzU5ODUyNy4xNzE5OTA5NjI3*_ga_TQVES5V6SH*MTcxOTkwOTYyNi4xLjAuMTcxOTkwOTYyNi4wLjAuMA..">or check out our workshops at Eventbrite</a>.
 						</p>
 						
 						<div class='linkIcons'>
 					
 							<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css">
 							<a href="https://www.facebook.com/profile.php?id=100093580321978"><i class="fab fa-facebook fa-fw" style='font-size:80px'></i></a>
+							
+							<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css">
+							<a href="https://www.instagram.com/dandelion_sth/"><i class="fab fa-instagram fa-fw" style='font-size:80px'></i>
+							</a>
 						
 
 						</div>
+
 						
 						<!-- Popup Message -->
 						<?php if(isset($_SESSION['popup_message'])): ?>
